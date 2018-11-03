@@ -5,4 +5,4 @@ deeplearning framework으로 nlp 문제 해결을 구현한 소스 모음
 * source: https://gluon.mxnet.io/chapter05_recurrent-neural-networks/simple-rnn.html
 * low level implementation using nothing but mxnet.ndarray and mxnet.autograd
 * Dataset: "The Time Machine"
-* Notebook: [gluon_rnn_practice](https://github.com/hwyum/deeplearning_nlp/blob/master/gluon_rnn_practice.ipynb)
+* Notebook: [gluon_rnn_practice](https://nbviewer.jupyter.org/github/hwyum/deeplearning_nlp/blob/master/gluon_rnn_practice.ipynb)
