@@ -11,4 +11,4 @@ deeplearning framework으로 nlp 문제 해결을 구현한 소스 모음
 ### 2. Paper : Convolutional Neural Network for Sentence Classification (2014)
 * Reference: https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Sentence%20classification%20by%20MorphConv.ipynb (김보섭님)
 * Dataset: Naver movie review
-* Notebook: 
+* Notebook: [colab notebook] (https://nbviewer.jupyter.org/github/hwyum/deeplearning_nlp/blob/master/Implementing_a_CNN_for_Text_Classification_in_TensorFlow.ipynb)
